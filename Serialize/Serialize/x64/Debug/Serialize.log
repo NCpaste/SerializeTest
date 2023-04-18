@@ -1,0 +1,3 @@
+﻿  Serialize.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Serialize.vcxproj -> D:\ZZG_FileWork\CST_Project\SerializeTest\Serialize\x64\Debug\Serialize.exe
