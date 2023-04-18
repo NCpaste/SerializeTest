@@ -1,3 +1,6 @@
-﻿  Serialize.cpp
+﻿  People.cpp
   _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Serialize.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  正在生成代码...
   Serialize.vcxproj -> D:\ZZG_FileWork\CST_Project\SerializeTest\Serialize\x64\Debug\Serialize.exe
